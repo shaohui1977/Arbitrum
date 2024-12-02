@@ -4,18 +4,18 @@
 
 ## 介绍
 
-{Arbitrum 是一个以太坊扩展解决方案，通过优化以太坊网络的性能和降低交易费用，为用户和开发者提供了更高效的区块链体验。
+Arbitrum 是一个以太坊扩展解决方案，通过优化以太坊网络的性能和降低交易费用，为用户和开发者提供了更高效的区块链体验。
 
 在充满无限可能的 Web3 新世界里，Arbitrum 已经成为 Layer 2 中不可忽视的存在。为此，LXDAO 发起了「Arbitrum残酷共学」，想召集一群人共同创造一个积极向上的 Arbitrum 学习和交流环境。
 
 - **共同目标：**「Arbitrum 残酷共学」将可持续地从第 1 期有序的推进到 N 期，21 天为一个周期，从基础开始，初步掌握关于 Arbitrum的基础知识， Arbitrum的生态现状， Arbitrum DAO的治理规则，进而最终实现对 Arbitrum 较为全面完整的了解。
 - **非常残酷：** 无激励，学习知识就是最大的奖励。
 - **共学形式：** 自主学习、线上分享（腾讯会议 or gather town or whatever），更多信息请关注 [Arbitrum 残酷共学](https://t.me/LXDAO/15575)频道
-- **本期助教：余星**}
+- **本期助教：余星**
 
 ## 关键词
 
-{AArbitrum,Non-technical background,beginner-friendly}    
+Arbitrum,Non-technical background,beginner-friendly    
 
 ### **共学形式**
 
@@ -33,16 +33,16 @@
 
 ## 发起组织
 
-- {  [LXDAO](https://lxdao.io/) <img alt="organization-logo" height="60px" width="60px" src="https://avatars.githubusercontent.com/u/167147327?s=200&v=4" />  }
+- [LXDAO](https://lxdao.io/) <img alt="organization-logo" height="60px" width="60px" src="https://avatars.githubusercontent.com/u/167147327?s=200&v=4" />  
   
 
 ## 请假规则
 
-每周请假 {1} 次
+每周请假1次
 
 ## 社群
 
-Telegram：{[Arbitrum 残酷共学](https://t.me/LXDAO/15575)}
+Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 
 ### 共学内容
 
