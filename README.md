@@ -2,49 +2,189 @@
 
 > 本文档为创建残酷共学的通用模版 - 中文版，请根据模版结构来进行你的残酷共学的内容填充，请将 {} 内容进行替换
 
-# {残酷共学名称} <img alt="logo" height="80px" width="80px" src="{残酷共学 logo 图片 URL，没有可以删掉}" />
+# {Arbitrum 残酷共学} <img alt="logo" height="80px" width="80px" src="{残酷共学 logo 图片 URL，没有可以删掉}" />
 
 ## 介绍
 
-{残酷共学的介绍}
+{Arbitrum 是一个以太坊扩展解决方案，通过优化以太坊网络的性能和降低交易费用，为用户和开发者提供了更高效的区块链体验。
+
+在充满无限可能的 Web3 新世界里，Arbitrum 已经成为 Layer 2 中不可忽视的存在。为此，LXDAO 发起了「Arbitrum残酷共学」，想召集一群人共同创造一个积极向上的 Arbitrum 学习和交流环境。
+
+- **共同目标：**「Arbitrum 残酷共学」将可持续地从第 1 期有序的推进到 N 期，21 天为一个周期，从基础开始，初步掌握关于 Arbitrum的基础知识， Arbitrum的生态现状， Arbitrum DAO的治理规则，进而最终实现对 Arbitrum 较为全面完整的了解。
+- **非常残酷：** 无激励，学习知识就是最大的奖励。
+- **共学形式：** 自主学习、线上分享（腾讯会议 or gather town or whatever），更多信息请关注 [Arbitrum 残酷共学](https://t.me/LXDAO/15575)频道
+- **本期助教：余星**}
 
 ## 关键词
 
-{残酷共学的关键词 tag，能够让参与者比较快速的搜索和定位到你的这个残酷共学，比如 DeFi，DAO，English 等，请用英文，并用英文的逗号（,）分隔}
+{AArbitrum,Non-technical background,beginner-friendly}    
 
-## 面向人群
+### **共学形式**
 
-{残酷共学主要的受众人群，比如是专门针对程序员的，那么没有这方面技能和经验的人就可以不参加}
+- **自主学习：**每天围绕选定的 Arbitrum 学习资料进行学习，建议每天投入一小时进行资料阅读、思考、提问、交流及打卡。
+- **共学 Badge 认证：** 完成 Arbitrum 残酷共学 21 天共学打卡并通过学习证明审核即可获取 。
+- **线上讨论：** 随时可以在电报频道发起讨论，共学笔记分享交流。
+- **每周答疑**：每周由共学助教组织一次共学讨论会，对大家提到频率高的共学问题做出解答。
 
-## 报名时间
+### **共学时间与地点**
 
-- 开始时间：{报名开始时间，格式：yyyy-mm-dd，例子：2024-11-01}
-- 结束时间：{报名结束时间，格式：yyyy-mm-dd，例子：2024-11-01}
+- **报名时间：** 第 1 期报名从 2024 年 12 月 3 号开始，注意：⚠️ **报名成功即可开始课前的自主学习**，截止 12 月 9 号晚 23 点（北京时间），之后不再接受报名。
+- **正式共学：** 第 1期从 2024 年 12 月 10 号到 12 月 30 号 ，共 21 天持续 3 周，建议每天投入一小时时间来残酷学习。
+- **共学地点：** 自由安排 / 线上线下会议
 
-## 共学时间
-
-- 开始时间：{共学正式开始时间，格式：yyyy-mm-dd，例子：2024-11-01}
-- 结束时间：{共学正式开始时间，格式：yyyy-mm-dd，例子：2024-11-01}
-
-## 发起人
-
-- 姓名：{残酷共学发起人名字}
-- GitHub ID：{残酷共学发起人 GitHub ID}
-- Telegram：{残酷共学发起人 Telegram ID}
-- Email：{残酷共学发起人 email}
 
 ## 发起组织
 
-- {残酷共学发起组织方，可以是多个，请按以下格式将组织名称、link 和 logo 填好}
-  [LXDAO](https://lxdao.io/) <img alt="organization-logo" height="60px" width="60px" src="https://avatars.githubusercontent.com/u/167147327?s=200&v=4" />
+- {  [LXDAO](https://lxdao.io/) <img alt="organization-logo" height="60px" width="60px" src="https://avatars.githubusercontent.com/u/167147327?s=200&v=4" />  }
+  
 
 ## 请假规则
 
-每周请假 {请假次数，数字} 次
+每周请假 {1} 次
 
 ## 社群
 
-Telegram：{残酷共学 Telegram channel 链接，方便大家讨论共学内容}
+Telegram：{[Arbitrum 残酷共学](https://t.me/LXDAO/15575)}
+
+### 共学内容
+
+1、Arbitrum介绍：使命、特点及原理
+
+https://docs.arbitrum.io/welcome/arbitrum-gentle-introduction
+
+2.、Arbitrum技术架构：
+
+初级知识点：
+Layer 2技术类型：Arbitrum 是基于 Optimistic Rollup 的扩展解决方案。
+
+- 什么是 Rollup、ZK Rollups 与 Optimistic，Arbitrum 的区别
+https://cloud.tencent.com/developer/news/1003179
+
+工作原理：如何通过“欺诈证明”（Fraud Proofs）保证安全性。
+
+- **官方介绍文档**
+https://docs.arbitrum.io/how-arbitrum-works/fraud-proofs/challenge-manager
+- **非官方介绍：《Arbitrum的秘密武器：交互式欺诈证明》**
+https://www.theblockbeats.info/news/26507
+
+Arbitrum 名词解析 - One、Nitro、Nova详解
+
+- 官方介绍文档
+    
+    https://docs.arbitrum.io/how-arbitrum-works/why-nitro
+    
+- **非官方介绍：《[Arbitrum 详解 - One、Nitro、Nova](https://community.dorahacks.io/t/arbitrum-one-nitro-nova/562)》**
+    
+    https://community.dorahacks.io/t/arbitrum-one-nitro-nova/562
+    
+
+进阶完整知识点：
+
+- **官方介绍文档**
+    
+    https://docs.arbitrum.io/how-arbitrum-works/inside-arbitrum-nitro
+    
+- **深入理解Arbitrum**
+https://www.theblockbeats.info/news/26507
+- **Arbitrum 创新的技术路线图**
+    
+    https://medium.com/offchainlabs/your-chain-your-rules-offchain-labs-technical-roadmap-to-fuel-arbitrum-innovation-f787f2e85966
+    
+
+3. 生态系统：应用生态、用户体验、社区及合作伙伴
+
+- 《Messari：深度分析 Arbitrum 的繁荣生态》
+    
+    https://www.theblockbeats.info/news/35982
+    
+- 全览 Arbitrum 上百个生态项目：跨链、DeFi、基础设施、NFT
+    
+    http://www.yuanli24.com/news/11836
+    
+- Arbitrum Orbit 生态探索：18 条 Orbit 链，加速以太坊生态多链时代
+    
+    https://www.techflowpost.com/article/detail_15657.html
+    
+
+4. 代币经济模型
+
+- **$ARB 代币：概念概述**
+https://docs.arbitrum.foundation/concepts/arb-token
+- **$ARB空投资格和分配规范**
+    
+    https://docs.arbitrum.foundation/airdrop-eligibility-distribution
+    
+- **$ARB代币流通供应量**
+    
+    https://docs.arbitrum.foundation/token-supply
+    
+- **一文详解 Arbitrum 原生代币 ARB 经济模型、价值主张和未来前景**
+https://foresightnews.pro/article/detail/28817
+- **Arbitrum 代币经济、机构成本、估值分析**
+    
+    https://foresightnews.pro/article/detail/28668
+    
+
+5. **Arbitrum  DAO**治理
+
+- **Arbitrum  DAO 宪法**
+
+https://docs.arbitrum.foundation/dao-constitution
+
+- **Arbitrum  DAO 术语表**
+
+https://docs.arbitrum.foundation/dao-glossary
+
+- **Arbitrum  DAO  如何提交提案**
+
+https://docs.arbitrum.foundation/how-tos/create-submit-dao-proposal
+
+- **Arbitrum  DAO治理理念**
+
+https://docs.arbitrum.foundation/concepts/arbitrum-dao
+
+- **Arbitrum  DAO治理架构**
+
+https://docs.arbitrum.foundation/security-council-members
+
+- **以上汇总：官方治理文档**
+
+[https://docs.arbitrum.foundation/how-tos/create-submit-dao-proposal](https://docs.arbitrum.foundation/gentle-intro-dao-governance)
+
+- **Arbitrum  DAO**治理论坛
+
+https://forum.arbitrum.foundation/
+
+- 《**Arbitrum 的赠款战争落幕：57 个项目瓜分 5000 万 ARB，或成 DAO 治理的经典案例？**》
+
+https://foresightnews.pro/article/detail/45035
+
+### 共学进度
+
+21 天学习进度安排如下：
+
+**第一周（1-7天）：基础概念与技术入门**
+
+本周重点学习Arbitrum的基本介绍和技术架构的初级知识点：
+
+- • 第1-2天：了解Arbitrum的使命、特点及基本原理
+- • 第3-5天：认识Rollup概念并深入理解欺诈证明机制
+
+**第二周（8-14天）：技术深化与生态探索**
+
+本周重点学习技术进阶知识和生态系统：
+
+- • 第8-10天：学习Arbitrum三次升级（One、Nitro、Nova）的细节
+- • 第11-12天：了解技术路线图和创新特点
+- • 第13-14天：探索Arbitrum生态系统和应用案例
+
+**第三周（15-21天）：代币经济与治理机制**
+
+本周重点学习代币经济模型和DAO治理：
+
+- • 第15-17天：深入理解$ARB代币经济模型
+- • 第18-19天：学习 DAO 治理架构和基本概念
+- • 第20-21天：了解提案流程和实际治理案例
 
 ## 报名和打卡规则
 
@@ -82,7 +222,7 @@ Telegram：{残酷共学 Telegram channel 链接，方便大家讨论共学内�
 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |  
 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
@@ -98,39 +238,3 @@ Telegram：{残酷共学 Telegram channel 链接，方便大家讨论共学内�
 
 <!-- STATISTICALDATA_START -->
 <!-- STATISTICALDATA_END -->
-
-> 如果你是此次共学发起人，请进行以下操作进行自动化发放权限的设置，完成后请将这一部分内容从你的仓库中删掉。
-
-### 为您的组织 【残酷共学营】 创建具有邀请协作者权限的个人访问令牌
-
-要创建具有邀请协作者权限的个人访问令牌，请按照以下步骤操作：
-
-1. 导航到您的个人设置: 转到 https://github.com/settings/profile 并登录您的 GitHub 帐户。
-
-2. 访问个人访问令牌页面: 在左侧菜单中，单击 “开发者设置”，然后选择 “个人访问令牌”。
-
-3. 创建新令牌: 点击 “生成新令牌” 按钮。选择 classic 的
-
-4. 命名您的令牌: 在 “令牌名称” 字段中输入一个描述性名称，例如 `invite-collaborators`。
-
-5. 选择适当的范围: 在 “范围” 部分，选择授予您的令牌所需的权限。对于邀请协作者，您需要授予以下范围：
-
-- `repo:invite`：允许您的令牌创建存储库邀请。最好是给这个令牌赋予 repo 总权限
-- `admin:org` 权限的用户才能创建具有邀请协作者权限的个人访问令牌。
-
-6. 将令牌值添加到存储库 secret: 按照上述步骤将您的个人访问令牌值添加到您的存储库 secret 中，并将名称设置为 `PAT_WITH_INVITE_PERMISSIONS`。
-
-![image](https://github.com/user-attachments/assets/d7c06540-9076-4557-b911-e5e484a742bb)
-
-### 配置共学信息配置变量
-
-1. 配置这四个仓库变量(Repository variables)，注意不要添加**换行**，**空格**符号
-
-| Field Name  | Value                     | Comments                        |
-| ----------- | ------------------------- | ------------------------------- |
-| START_DATE  | 2024-06-24T00:00:00+00:00 | Start time                      |
-| END_DATE    | 2024-07-06T23:59:59+00:00 | End time                        |
-| FIELD_NAME  | Name                      | Field name in the readme        |
-| FILE_SUFFIX | .md                       | Shared learning activity number |
-
-![image](https://github.com/user-attachments/assets/d5b6f504-9eea-4215-9848-056fc33f00f8)
