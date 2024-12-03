@@ -1,14 +1,12 @@
-
-
-# {Arbitrum 残酷共学} <img alt="logo" height="80px" width="80px" src="{残酷共学 logo 图片 URL，没有可以删掉}" />
+# Arbitrum 残酷共学
 
 ## 介绍
 
 Arbitrum 是一个以太坊扩展解决方案，通过优化以太坊网络的性能和降低交易费用，为用户和开发者提供了更高效的区块链体验。
 
-在充满无限可能的 Web3 新世界里，Arbitrum 已经成为 Layer 2 中不可忽视的存在。为此，LXDAO 发起了「Arbitrum残酷共学」，想召集一群人共同创造一个积极向上的 Arbitrum 学习和交流环境。
+在充满无限可能的 Web3 新世界里，Arbitrum 已经成为 Layer 2 中不可忽视的存在。为此，LXDAO 发起了「Arbitrum 残酷共学」，想召集一群人共同创造一个积极向上的 Arbitrum 学习和交流环境。
 
-- **共同目标：**「Arbitrum 残酷共学」将可持续地从第 1 期有序的推进到 N 期，21 天为一个周期，从基础开始，初步掌握关于 Arbitrum的基础知识， Arbitrum的生态现状， Arbitrum DAO的治理规则，进而最终实现对 Arbitrum 较为全面完整的了解。
+- **共同目标：**「Arbitrum 残酷共学」将可持续地从第 1 期有序的推进到 N 期，21 天为一个周期，从基础开始，初步掌握关于 Arbitrum的基础知识， Arbitrum 的生态现状， Arbitrum DAO的治理规则，进而最终实现对 Arbitrum 较为全面完整的了解。
 - **非常残酷：** 无激励，学习知识就是最大的奖励。
 - **共学形式：** 自主学习、线上分享（腾讯会议 or gather town or whatever），更多信息请关注 [Arbitrum 残酷共学](https://t.me/LXDAO/15575)频道
 - **本期助教：余星**
@@ -46,116 +44,47 @@ Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 
 ### 共学内容
 
-1、Arbitrum介绍：使命、特点及原理
+#### 1. Arbitrum 基础介绍
+- [使命、特点及原理](https://docs.arbitrum.io/welcome/arbitrum-gentle-introduction)
 
-https://docs.arbitrum.io/welcome/arbitrum-gentle-introduction
+#### 2. Arbitrum 技术架构
 
-2.、Arbitrum技术架构：
+**初级知识点：**
+- Layer 2 技术类型
+  - [什么是 Rollup、ZK Rollups 与 Optimistic，Arbitrum 的区别](https://cloud.tencent.com/developer/news/1003179)
+- 工作原理
+  - [官方文档：欺诈证明](https://docs.arbitrum.io/how-arbitrum-works/fraud-proofs/challenge-manager)
+  - [非官方介绍：交互式欺诈证明](https://www.theblockbeats.info/news/26507)
+- Arbitrum 名词解析
+  - [官方文档：One、Nitro、Nova](https://docs.arbitrum.io/how-arbitrum-works/why-nitro)
+  - [非官方介绍：One、Nitro、Nova 详解](https://community.dorahacks.io/t/arbitrum-one-nitro-nova/562)
 
-初级知识点：
-Layer 2技术类型：Arbitrum 是基于 Optimistic Rollup 的扩展解决方案。
+**进阶知识点：**
+- [官方文档：Inside Arbitrum Nitro](https://docs.arbitrum.io/how-arbitrum-works/inside-arbitrum-nitro)
+- [深入理解 Arbitrum](https://www.theblockbeats.info/news/26507)
+- [Arbitrum 创新的技术路线图](https://medium.com/offchainlabs/your-chain-your-rules-offchain-labs-technical-roadmap-to-fuel-arbitrum-innovation-f787f2e85966)
 
-- 什么是 Rollup、ZK Rollups 与 Optimistic，Arbitrum 的区别
-https://cloud.tencent.com/developer/news/1003179
+#### 3. 生态系统
+- [Messari：深度分析 Arbitrum 的繁荣生态](https://www.theblockbeats.info/news/35982)
+- [全览 Arbitrum 上百个生态项目](http://www.yuanli24.com/news/11836)
+- [Arbitrum Orbit 生态探索](https://www.techflowpost.com/article/detail_15657.html)
 
-工作原理：如何通过“欺诈证明”（Fraud Proofs）保证安全性。
+#### 4. 代币经济模型
+- [$ARB 代币概述](https://docs.arbitrum.foundation/concepts/arb-token)
+- [空投资格和分配规范](https://docs.arbitrum.foundation/airdrop-eligibility-distribution)
+- [代币流通供应量](https://docs.arbitrum.foundation/token-supply)
+- [ARB 经济模型详解](https://foresightnews.pro/article/detail/28817)
+- [代币经济、机构成本、估值分析](https://foresightnews.pro/article/detail/28668)
 
-- **官方介绍文档**
-https://docs.arbitrum.io/how-arbitrum-works/fraud-proofs/challenge-manager
-- **非官方介绍：《Arbitrum的秘密武器：交互式欺诈证明》**
-https://www.theblockbeats.info/news/26507
-
-Arbitrum 名词解析 - One、Nitro、Nova详解
-
-- 官方介绍文档
-    
-    https://docs.arbitrum.io/how-arbitrum-works/why-nitro
-    
-- **非官方介绍：《[Arbitrum 详解 - One、Nitro、Nova](https://community.dorahacks.io/t/arbitrum-one-nitro-nova/562)》**
-    
-    https://community.dorahacks.io/t/arbitrum-one-nitro-nova/562
-    
-
-进阶完整知识点：
-
-- **官方介绍文档**
-    
-    https://docs.arbitrum.io/how-arbitrum-works/inside-arbitrum-nitro
-    
-- **深入理解Arbitrum**
-https://www.theblockbeats.info/news/26507
-- **Arbitrum 创新的技术路线图**
-    
-    https://medium.com/offchainlabs/your-chain-your-rules-offchain-labs-technical-roadmap-to-fuel-arbitrum-innovation-f787f2e85966
-    
-
-3. 生态系统：应用生态、用户体验、社区及合作伙伴
-
-- 《Messari：深度分析 Arbitrum 的繁荣生态》
-    
-    https://www.theblockbeats.info/news/35982
-    
-- 全览 Arbitrum 上百个生态项目：跨链、DeFi、基础设施、NFT
-    
-    http://www.yuanli24.com/news/11836
-    
-- Arbitrum Orbit 生态探索：18 条 Orbit 链，加速以太坊生态多链时代
-    
-    https://www.techflowpost.com/article/detail_15657.html
-    
-
-4. 代币经济模型
-
-- **$ARB 代币：概念概述**
-https://docs.arbitrum.foundation/concepts/arb-token
-- **$ARB空投资格和分配规范**
-    
-    https://docs.arbitrum.foundation/airdrop-eligibility-distribution
-    
-- **$ARB代币流通供应量**
-    
-    https://docs.arbitrum.foundation/token-supply
-    
-- **一文详解 Arbitrum 原生代币 ARB 经济模型、价值主张和未来前景**
-https://foresightnews.pro/article/detail/28817
-- **Arbitrum 代币经济、机构成本、估值分析**
-    
-    https://foresightnews.pro/article/detail/28668
-    
-
-5. **Arbitrum  DAO**治理
-
-- **Arbitrum  DAO 宪法**
-
-https://docs.arbitrum.foundation/dao-constitution
-
-- **Arbitrum  DAO 术语表**
-
-https://docs.arbitrum.foundation/dao-glossary
-
-- **Arbitrum  DAO  如何提交提案**
-
-https://docs.arbitrum.foundation/how-tos/create-submit-dao-proposal
-
-- **Arbitrum  DAO治理理念**
-
-https://docs.arbitrum.foundation/concepts/arbitrum-dao
-
-- **Arbitrum  DAO治理架构**
-
-https://docs.arbitrum.foundation/security-council-members
-
-- **以上汇总：官方治理文档**
-
-[https://docs.arbitrum.foundation/how-tos/create-submit-dao-proposal](https://docs.arbitrum.foundation/gentle-intro-dao-governance)
-
-- **Arbitrum  DAO**治理论坛
-
-https://forum.arbitrum.foundation/
-
-- 《**Arbitrum 的赠款战争落幕：57 个项目瓜分 5000 万 ARB，或成 DAO 治理的经典案例？**》
-
-https://foresightnews.pro/article/detail/45035
+#### 5. Arbitrum DAO治理
+- [DAO 宪法](https://docs.arbitrum.foundation/dao-constitution)
+- [DAO 术语表](https://docs.arbitrum.foundation/dao-glossary)
+- [如何提交提案](https://docs.arbitrum.foundation/how-tos/create-submit-dao-proposal)
+- [治理理念](https://docs.arbitrum.foundation/concepts/arbitrum-dao)
+- [治理架构](https://docs.arbitrum.foundation/security-council-members)
+- [官方治理文档](https://docs.arbitrum.foundation/gentle-intro-dao-governance)
+- [治理论坛](https://forum.arbitrum.foundation/)
+- [DAO 治理案例分析](https://foresightnews.pro/article/detail/45035)
 
 ### 共学进度
 
@@ -163,18 +92,18 @@ https://foresightnews.pro/article/detail/45035
 
 **第一周（1-7天）：基础概念与技术入门**
 
-本周重点学习Arbitrum的基本介绍和技术架构的初级知识点：
+本周重点学习 Arbitrum 的基本介绍和技术架构的初级知识点：
 
-- • 第1-2天：了解Arbitrum的使命、特点及基本原理
+- • 第1-2天：了解 Arbitrum 的使命、特点及基本原理
 - • 第3-5天：认识Rollup概念并深入理解欺诈证明机制
 
 **第二周（8-14天）：技术深化与生态探索**
 
 本周重点学习技术进阶知识和生态系统：
 
-- • 第8-10天：学习Arbitrum三次升级（One、Nitro、Nova）的细节
+- • 第8-10天：学习 Arbitrum 三次升级（One、Nitro、Nova）的细节
 - • 第11-12天：了解技术路线图和创新特点
-- • 第13-14天：探索Arbitrum生态系统和应用案例
+- • 第13-14天：探索 Arbitrum 生态系统和应用案例
 
 **第三周（15-21天）：代币经济与治理机制**
 
@@ -207,20 +136,21 @@ https://foresightnews.pro/article/detail/45035
     笔记内容
     <!-- Content_END -->
     ```
-    - 日期格式为 `### 2024.07.11`，请不要随意更改
+    - 日期格式为 `### 2024.12.10`，请不要随意更改
 
-## {本期残酷共学名字}打卡记录表
+## Arbitrum 残酷共学打卡记录表
 
 ✅ = Done ⭕️ = Missed ❌ = Failed
 
 <!-- START_COMMIT_TABLE -->
 
-| Name | 6.24 | 6.25 | 6.26 | 6.27 | 6.28 | 6.29 | 6.30 | 7.01 | 7.02 | 7.03 | 7.04 | 7.05 | 7.06 | 7.07 | 7.08 | 7.09 | 7.10 | 7.11 | 7.12 | 7.13 | 7.14 |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| Name | 12.10 | 12.11 | 12.12 | 12.13 | 12.14 | 12.15 | 12.16 | 12.17 | 12.18 | 12.19 | 12.20 | 12.21 | 12.22 | 12.23 | 12.24 | 12.25 | 12.26 | 12.27 | 12.28 | 12.29 | 12.30 |
+| ---- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |  
+|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
