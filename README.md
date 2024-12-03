@@ -17,7 +17,7 @@ Arbitrum,Non-technical background,beginner-friendly           
 
 ## 面向人群
 
-希望了解Arbitrum是什么的
+背景不限，重点在于你是否对 Arbitrum 技术感兴趣。
 
 ## 报名时间
 
