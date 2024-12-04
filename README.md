@@ -162,7 +162,9 @@ Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 | yewlne | | | | | | | | | | | | | | | | | | | | | |
 | Helios | | | | | | | | | | | | | | | | | | | | | |
 | wodeche | | | | | | | | | | | | | | | | | | | | | |
+| NSXX2021 | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
