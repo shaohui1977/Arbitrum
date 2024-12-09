@@ -168,7 +168,7 @@ Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 | StarryDesert |   | | | | | | | | | | | | | | | | | | | | |
 | linyuanye3 |   | | | | | | | | | | | | | | | | | | | | |
 | yuhui |   | | | | | | | | | | | | | | | | | | | | |
-| pliker-git |   | | | | | | | | | | | | | | | | | | | | |
+| pliker-git | ✅ | | | | | | | | | | | | | | | | | | | | |
 | yewlne |   | | | | | | | | | | | | | | | | | | | | |
 | NSXX2021 |   | | | | | | | | | | | | | | | | | | | | |
 | missingtheway |   | | | | | | | | | | | | | | | | | | | | |
@@ -194,6 +194,7 @@ Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 | noyyyy |   | | | | | | | | | | | | | | | | | | | | |
 | Soleil-YSY |   | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
