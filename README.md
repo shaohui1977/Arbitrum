@@ -168,7 +168,13 @@ Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 | HenryWei | | | | | | | | | | | | | | | | | | | | | |
 | StarryDesert | | | | | | | | | | | | | | | | | | | | | |
 | Albert | | | | | | | | | | | | | | | | | | | | | |
+| Rey | | | | | | | | | | | | | | | | | | | | | |
+| CornellZheng | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
+
+
+
 
 
 
