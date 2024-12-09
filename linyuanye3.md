@@ -8,8 +8,7 @@ timezone: Asia/Shanghai
 # {jiejie}
 
 1. 您好，我是大四学生一枚，目前技术栈html，css，JavaScript，vue，mysql。目标是找到web3领域的工作，深耕这个领域直至开花结果。感谢提供学习帮助，谢谢！
-2. 你认为你会完成本次残酷学习吗？
-3. 会
+2. 你认为你会完成本次残酷学习吗？会
 ## Notes
 
 <!-- Content_START -->
