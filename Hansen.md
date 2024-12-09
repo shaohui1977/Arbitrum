@@ -51,7 +51,7 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ---
 
-# {hansen}
+# Hansen
 
 1. 虽然很早就了解过arb，但没有系统的学习和使用过。
 2. 你认为你会完成本次残酷学习吗？  应该可以完成 ，抽时间学习 
