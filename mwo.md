@@ -53,8 +53,7 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 # {mwo}
 
-1. 自我介绍
-   Hi ! my name is mwo,I am a new member of the community, and I want to integrate into the community faster and learn web3 knowledge
+1. Hi ! my name is mwo,I am a new member of the community, and I want to integrate into the community faster and learn web3 knowledge
 3. 你认为你会完成本次残酷学习吗？
    yes
 
