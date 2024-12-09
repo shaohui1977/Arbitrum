@@ -65,6 +65,12 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 ### 2024.12.10
 
 笔记内容
+1.Arbitrum Rollup — 是一种 Optimistic Rollup 协议。 
+2.Arbitrum通过Optimistic Rollup技术拓展了L1层，形成了L2层生态。 
+3.$ARB治理代币的发行使这些协议各自链以及Arbitrum DAO授权的任何未来链的治理变得去中心化。 
+4.$ARB代币可用于对Arbitrum DAO治理提案进行投票，从而让$ARB持有者共同塑造Arbitrum的未来。 
+5.代币持有者能够将其投票权委托给代表。 
+6.DAO 的成立：Arbitrum DAO（去中心化自治组织）是一个新实体，对 Arbitrum One 和 Arbitrum Nova 链及其底层协议拥有决策权。该 DAO 受 Arbitrum DAO 宪法的核心，该宪法是一套描述DAO 如何兼容的规则。宪法加载于 Arbitrum DAO 用于管理自身技术的一系列社会契约中。
 
 ### 2024.12.10
 
