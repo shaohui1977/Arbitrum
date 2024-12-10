@@ -62,7 +62,8 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ### 2024.12.10
 
-笔记内容
+1. 学习 Arbitrum 基础介绍 https://docs.arbitrum.io/welcome/arbitrum-gentle-introduction
+2. Arbitrum suite https://docs.arbitrum.io/welcome/get-started
 
 ### 2024.12.10
 
