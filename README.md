@@ -173,7 +173,7 @@ Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 | pliker-git | ✅ | | | | | | | | | | | | | | | | | | | | |
 | yewlne |   | | | | | | | | | | | | | | | | | | | | |
 | NSXX2021 |   | | | | | | | | | | | | | | | | | | | | |
-| missingtheway |   | | | | | | | | | | | | | | | | | | | | |
+| missingtheway | ✅ | | | | | | | | | | | | | | | | | | | | |
 | happylucie |   | | | | | | | | | | | | | | | | | | | | |
 | Rey666666 | ✅ | | | | | | | | | | | | | | | | | | | | |
 | hechichu |   | | | | | | | | | | | | | | | | | | | | |
@@ -197,6 +197,7 @@ Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 | Soleil-YSY | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 | Marcus |   | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
