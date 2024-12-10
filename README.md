@@ -168,7 +168,7 @@ Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 | jjeejj | ✅ | | | | | | | | | | | | | | | | | | | | |
 | pillowtalk-Qy | ✅ | | | | | | | | | | | | | | | | | | | | |
 | StarryDesert | ✅ | | | | | | | | | | | | | | | | | | | | |
-| linyuanye3 |   | | | | | | | | | | | | | | | | | | | | |
+| linyuanye3 | ✅ | | | | | | | | | | | | | | | | | | | | |
 | yuhui | ✅ | | | | | | | | | | | | | | | | | | | | |
 | pliker-git | ✅ | | | | | | | | | | | | | | | | | | | | |
 | yewlne |   | | | | | | | | | | | | | | | | | | | | |
@@ -197,6 +197,7 @@ Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 | Soleil-YSY | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 | Marcus |   | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
