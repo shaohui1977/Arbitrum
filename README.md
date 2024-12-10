@@ -177,7 +177,7 @@ Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 | happylucie |   | | | | | | | | | | | | | | | | | | | | |
 | Rey666666 |   | | | | | | | | | | | | | | | | | | | | |
 | hechichu |   | | | | | | | | | | | | | | | | | | | | |
-| ChinesePaladin61 |   | | | | | | | | | | | | | | | | | | | | |
+| ChinesePaladin61 | ✅ | | | | | | | | | | | | | | | | | | | | |
 | 317232 |   | | | | | | | | | | | | | | | | | | | | |
 | CornellZheng |   | | | | | | | | | | | | | | | | | | | | |
 | JacksonStack |   | | | | | | | | | | | | | | | | | | | | |
@@ -196,6 +196,7 @@ Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 | noyyyy |   | | | | | | | | | | | | | | | | | | | | |
 | Soleil-YSY |   | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
