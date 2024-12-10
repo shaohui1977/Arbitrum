@@ -165,7 +165,7 @@ Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 | Helen2022a |   | | | | | | | | | | | | | | | | | | | | |
 | jjeejj | ✅ | | | | | | | | | | | | | | | | | | | | |
 | pillowtalk-Qy |   | | | | | | | | | | | | | | | | | | | | |
-| StarryDesert |   | | | | | | | | | | | | | | | | | | | | |
+| StarryDesert | ✅ | | | | | | | | | | | | | | | | | | | | |
 | linyuanye3 |   | | | | | | | | | | | | | | | | | | | | |
 | yuhui | ✅ | | | | | | | | | | | | | | | | | | | | |
 | pliker-git | ✅ | | | | | | | | | | | | | | | | | | | | |
@@ -194,6 +194,7 @@ Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 | noyyyy |   | | | | | | | | | | | | | | | | | | | | |
 | Soleil-YSY |   | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
