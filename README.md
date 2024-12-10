@@ -182,7 +182,7 @@ Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 | CornellZheng |   | | | | | | | | | | | | | | | | | | | | |
 | JacksonStack |   | | | | | | | | | | | | | | | | | | | | |
 | joyc |   | | | | | | | | | | | | | | | | | | | | |
-| Yi-fantasy |   | | | | | | | | | | | | | | | | | | | | |
+| Yi-fantasy | ✅ | | | | | | | | | | | | | | | | | | | | |
 | YuanboXie |   | | | | | | | | | | | | | | | | | | | | |
 | a-super-cat | ✅ | | | | | | | | | | | | | | | | | | | | |
 | stualan |   | | | | | | | | | | | | | | | | | | | | |
@@ -197,6 +197,7 @@ Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 | Soleil-YSY | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 | Marcus |   | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
