@@ -189,13 +189,14 @@ Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 | jiejie |   | | | | | | | | | | | | | | | | | | | | |
 | HeliosLz | ✅ | | | | | | | | | | | | | | | | | | | | |
 | Muyec | ✅ | | | | | | | | | | | | | | | | | | | | |
-| CHENFANGC |   | | | | | | | | | | | | | | | | | | | | |
+| CHENFANGC | ✅ | | | | | | | | | | | | | | | | | | | | |
 | fuhaooo | ✅ | | | | | | | | | | | | | | | | | | | | |
 | nocb |   | | | | | | | | | | | | | | | | | | | | |
 | iavl |   | | | | | | | | | | | | | | | | | | | | |
 | noyyyy |   | | | | | | | | | | | | | | | | | | | | |
 | Soleil-YSY |   | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 <!-- STATISTICALDATA_START -->
