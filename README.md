@@ -180,7 +180,7 @@ Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 | ChinesePaladin61 | ✅ | | | | | | | | | | | | | | | | | | | | |
 | 317232 |   | | | | | | | | | | | | | | | | | | | | |
 | CornellZheng |   | | | | | | | | | | | | | | | | | | | | |
-| JacksonStack |   | | | | | | | | | | | | | | | | | | | | |
+| JacksonStack | ✅ | | | | | | | | | | | | | | | | | | | | |
 | joyc |   | | | | | | | | | | | | | | | | | | | | |
 | Yi-fantasy | ✅ | | | | | | | | | | | | | | | | | | | | |
 | YuanboXie |   | | | | | | | | | | | | | | | | | | | | |
@@ -197,6 +197,7 @@ Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 | Soleil-YSY | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 | Marcus |   | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
