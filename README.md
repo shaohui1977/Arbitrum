@@ -186,7 +186,7 @@ Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 | stualan |   | | | | | | | | | | | | | | | | | | | | |
 | jiejie |   | | | | | | | | | | | | | | | | | | | | |
 | HeliosLz | ✅ | | | | | | | | | | | | | | | | | | | | |
-| Muyec |   | | | | | | | | | | | | | | | | | | | | |
+| Muyec | ✅ | | | | | | | | | | | | | | | | | | | | |
 | CHENFANGC |   | | | | | | | | | | | | | | | | | | | | |
 | fuhaooo |   | | | | | | | | | | | | | | | | | | | | |
 | nocb |   | | | | | | | | | | | | | | | | | | | | |
@@ -194,6 +194,7 @@ Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 | noyyyy |   | | | | | | | | | | | | | | | | | | | | |
 | Soleil-YSY |   | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
