@@ -51,9 +51,10 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ---
 
-# Alfred
+# {你的名字}
 
-之前在Web2从事Java开发工作，接触Web3后在积极参与相关社区活动，不断学习中。希望能够在残酷学习中坚持下来，顺利完成。
+1. Iyi[奕] 一名后端开发者 golang、Node.js、进入 web3 行业 2年
+2. 你认为你会完成本次残酷学习吗？ 会
 
 ## Notes
 
@@ -61,22 +62,8 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ### 2024.12.10
 
-1. Arbitrum 的使命
-
-Arbitrum 的使命是通过提供更高效、低成本和用户友好的解决方案，增强以太坊生态系统的可扩展性和可用性。它致力于构建一个去中心化、高性能的 Layer 2 扩展平台，使开发者和用户能够享受更快、更便宜的交易，同时保持以太坊的安全性和去中心化特点。
-
-2. Arbitrum 的特点
-
-- 高扩展性
-：Arbitrum 是以太坊的 Layer 2 扩展方案，可以显著提高交易处理能力，降低拥堵和交易费用。
-- 与以太坊的兼容性
-：完全兼容以太坊的 EVM（以太坊虚拟机），开发者可以无缝迁移现有智能合约和 DApp。
-- 低成本
-：利用 Rollup 技术，大幅降低了链上计算和存储成本，使得小额交易也具有经济性。
-- 安全性
-：继承以太坊主链的安全性，所有交易在 Layer 1 上的验证确保了去中心化和抗审查性。
-- 灵活性
-：支持多种开发工具和语言，例如 Solidity，同时为开发者提供良好的文档和社区支持。
+1. 学习 Arbitrum 基础介绍 https://docs.arbitrum.io/welcome/arbitrum-gentle-introduction
+2. Arbitrum suite https://docs.arbitrum.io/welcome/get-started
 
 ### 2024.12.10
 
