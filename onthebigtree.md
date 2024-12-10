@@ -2,52 +2,6 @@
 timezone: Asia/Shanghai
 ---
 
-> 请在上边的 timezone 添加你的当地时区，这会有助于你的打卡状态的自动化更新，如果没有添加，默认为北京时间 UTC+8 时区
-> 时区请参考以下列表，请移除 # 以后的内容
-
-timezone: Pacific/Honolulu # 夏威夷-阿留申标准时间 (UTC-10)
-
-timezone: America/Anchorage # 阿拉斯加标准时间 (UTC-9)
-
-timezone: America/Los_Angeles # 太平洋标准时间 (UTC-8)
-
-timezone: America/Denver # 山地标准时间 (UTC-7)
-
-timezone: America/Chicago # 中部标准时间 (UTC-6)
-
-timezone: America/New_York # 东部标准时间 (UTC-5)
-
-timezone: America/Halifax # 大西洋标准时间 (UTC-4)
-
-timezone: America/St_Johns # 纽芬兰标准时间 (UTC-3:30)
-
-timezone: America/Sao_Paulo # 巴西利亚时间 (UTC-3)
-
-timezone: Atlantic/Azores # 亚速尔群岛时间 (UTC-1)
-
-timezone: Europe/London # 格林威治标准时间 (UTC+0)
-
-timezone: Europe/Berlin # 中欧标准时间 (UTC+1)
-
-timezone: Europe/Helsinki # 东欧标准时间 (UTC+2)
-
-timezone: Europe/Moscow # 莫斯科标准时间 (UTC+3)
-
-timezone: Asia/Dubai # 海湾标准时间 (UTC+4)
-
-timezone: Asia/Kolkata # 印度标准时间 (UTC+5:30)
-
-timezone: Asia/Dhaka # 孟加拉国标准时间 (UTC+6)
-
-timezone: Asia/Bangkok # 中南半岛时间 (UTC+7)
-
-timezone: Asia/Shanghai # 中国标准时间 (UTC+8)
-
-timezone: Asia/Tokyo # 日本标准时间 (UTC+9)
-
-timezone: Australia/Sydney # 澳大利亚东部标准时间 (UTC+10)
-
-timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ---
 
@@ -62,9 +16,67 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 <!-- Content_START -->
 
-### 2024.07.11
+### 2024.12.10
+# Arbitrum 学习笔记
 
-笔记内容
+## 什么是 Arbitrum？
+- 基于以太坊的 **Layer 2 扩展方案**。
+- 核心技术：**Optimistic Rollup**。
+- 目标：提高交易速度、降低成本，同时继承以太坊的安全性。
+
+---
+
+## 为什么用 Arbitrum？
+1. **便宜**：Gas 费用比以太坊便宜得多。
+2. **快**：交易处理速度更快。
+3. **兼容**：支持所有以太坊的 DApps 和智能合约，开发者迁移很方便。
+4. **安全**：最终安全性由以太坊主网保障。
+
+---
+
+## 技术原理
+- **Optimistic Rollup**：
+  - 把一堆交易数据打包，提交到以太坊。
+  - 默认假设所有交易都正确，只有争议时才用以太坊验证。
+  - 节省计算资源，交易更高效。
+
+---
+
+## 核心生态
+- **Arbitrum One**：主链，用于 DeFi 和复杂应用。
+- **Arbitrum Nova**：适合游戏和社交类轻量级应用。
+
+---
+
+## 适合什么场景？
+- **DeFi 应用**（比如 Uniswap, Aave）。
+- **NFT 铸造与交易**（省费用）。
+- **区块链游戏**（交互多，延迟低）。
+
+---
+
+## 优势总结
+- 低成本、高效率。
+- 没有牺牲安全性。
+- DApps 部署简单，不需要大改代码。
+
+---
+
+## 如何开始？
+1. 配置钱包（比如 MetaMask），添加 Arbitrum 网络。
+2. 使用桥接工具，把 ETH 转移到 Arbitrum。
+3. 体验 DApps，低费用快交易。
+
+---
+
+## 其他记住的点
+- 开发者友好，几乎不用重新学东西。
+- 社区和生态在快速扩展，越来越多项目支持。
+
+---
+
+> 快速总结：Arbitrum = 便宜 + 快 + 兼容 + 安全，适合各种以太坊应用的扩展！
+
 
 ### 2024.07.12
 
