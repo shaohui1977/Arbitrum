@@ -1,5 +1,5 @@
 ---
-timezone: Asia/Shanghai  
+timezone: Asia/Shanghai
 ---
 
 > 请在上边的 timezone 添加你的当地时区，这会有助于你的打卡状态的自动化更新，如果没有添加，默认为北京时间 UTC+8 时区
@@ -64,8 +64,8 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ### 2024.12.10
 
-笔记内容
+阅读文档[Arbitrum 的简要介绍](https://docs.arbitrum.io/welcome/arbitrum-gentle-introduction)第一节
 
-### 2024.12.10
+### 2024.12.11
 
 <!-- Content_END -->
