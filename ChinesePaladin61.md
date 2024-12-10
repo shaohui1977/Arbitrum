@@ -67,6 +67,24 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 ### 2024.12.10
 
 笔记内容
+什么是 Arbitrum？
+
+Arbitrum是一个生态系统，涵盖了多个基于以太坊的 Layer 2 解决方案，Arbitrum Rollup是Arbitrum的核心产品，是Optimistic Rollup 技术的一种具体实现。
+
+什么是Optimistic Rollup？
+
+Optimistic Rollup 是一种 Layer 2 扩展技术的协议和机制，主要特点是：
+假设机制：默认认为提交的交易和状态是正确的（Optimistic）。
+欺诈证明：允许用户通过欺诈证明（Fraud Proof）挑战提交的错误交易或状态。
+设计目标：减少主链上的计算和存储负担，同时保持高性能和低成本。
+所以Optimistic Rollup 是一个技术框架。
+
+Arbitrum Rollup相比于原生的Optimistic Rollup做出了什么优化？
+
+更短的挑战期：Arbitrum Rollup使用了增强的挑战期，允许挑战者使用简化的证据提交，从而加快挑战的响应速度，并且只针对有争议部分进行挑战，不需要完全重新计算整个交易。
+更低的复杂度与更高的效率：Arbitrum Rollup只对争议部分进行验证，使用n/2的方式缩小每一步的范围，直到欺诈证明的某一具体步骤，降低了挑战成本与时间。
+回滚与确认速度：更快，快速回滚错误状态
+经济激励：更明确和灵活的经济激励与惩罚机制
 
 ### 2024.12.10
 
