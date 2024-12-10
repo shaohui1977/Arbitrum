@@ -182,7 +182,7 @@ Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 | joyc |   | | | | | | | | | | | | | | | | | | | | |
 | Yi-fantasy |   | | | | | | | | | | | | | | | | | | | | |
 | YuanboXie |   | | | | | | | | | | | | | | | | | | | | |
-| a-super-cat |   | | | | | | | | | | | | | | | | | | | | |
+| a-super-cat | ✅ | | | | | | | | | | | | | | | | | | | | |
 | stualan |   | | | | | | | | | | | | | | | | | | | | |
 | jiejie |   | | | | | | | | | | | | | | | | | | | | |
 | HeliosLz | ✅ | | | | | | | | | | | | | | | | | | | | |
@@ -194,6 +194,7 @@ Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 | noyyyy |   | | | | | | | | | | | | | | | | | | | | |
 | Soleil-YSY |   | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
