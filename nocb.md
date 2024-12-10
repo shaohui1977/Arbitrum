@@ -51,10 +51,10 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ---
 
-# Tomas
+# Hansen
 
-1. Hi，大家好，我是一个社区新人，之前一直在关注共学这一种形式，这次鼓起勇气参与这次社区共学活动，希望可以通过学习提升自己。
-2. 你认为你会完成本次残酷学习吗？我已经做好完成的准备。
+1. 虽然很早就了解过arb，但没有系统的学习和使用过。
+2. 你认为你会完成本次残酷学习吗？  应该可以完成 ，抽时间学习 
 
 ## Notes
 
@@ -62,7 +62,14 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ### 2024.12.10
 
-笔记内容
+#### ARB基础介绍
+
+- ARB is Optimistic rollup protocol ，is a L2  
+- L2 是为了Ethereum的扩容
+- L1 保证了L2的安全性，
+- The only delay that's felt by a user is in "withdrawing" — moving their funds from Arbitrum back to Ethereum;
+- 批次，压缩 ，所以L2的费用低和效率高
+- 最新技术栈：Stylus ，可以支持 rust 
 
 ### 2024.12.10
 

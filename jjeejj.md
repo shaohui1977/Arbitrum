@@ -51,39 +51,20 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ---
 
-# Ache
+# {你的名字}
 
-1. LXDAO 治理组成员
-2. 你认为你会完成本次残酷学习吗？ OFC ！
+1. Iyi[奕] 一名后端开发者 golang、Node.js、进入 web3 行业 2年
+2. 你认为你会完成本次残酷学习吗？ 会
 
 ## Notes
 
 <!-- Content_START -->
-### 2024.12.09
-111
 
 ### 2024.12.10
 
-Arbitrum Rollup 如何扩展以太坊？
-Arb 采用“乐观假设”，被证明的欺诈行为将被惩罚
-Arb 链上的数据会发布到以太坊主网上，任何人都可以去检测和证明欺诈行为
-每个人都可以成为 Arb 的validator，只要运行开源的验证器软件，并且质押ether
+1. 学习 Arbitrum 基础介绍 https://docs.arbitrum.io/welcome/arbitrum-gentle-introduction
+2. Arbitrum suite https://docs.arbitrum.io/welcome/get-started
 
-欺诈如何被证明？
-由验证者玩一个交互式调用和响应的游戏
-
-AnyTrust链和 Rollup链
-Rollup ：所有数据都发布在L1上
-AnyTrust：数据是链下管理，适用于高交易
-
-### 2024.12.11
-### 2024.12.12
-### 2024.12.13
-### 2024.12.14
-### 2024.12.15
-### 2024.12.16
-### 2024.12.17
-### 2024.12.18
-### 2024.12.19
+### 2024.12.10
 
 <!-- Content_END -->
