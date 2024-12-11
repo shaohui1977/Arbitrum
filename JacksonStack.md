@@ -35,7 +35,8 @@ Arbitrum 提供了多种 Layer 2 解决方案，以提高以太坊的可扩展�
 **Arbitrum One:**<br>
 - Optimistic Rollup：通过在链下执行交易并仅将交易数据发布到以太坊主链上，实现高吞吐量。<br>
 - Nitro 升级：引入 WASM 和 Geth，优化交易批处理和压缩，提升性能和降低成本。<br>
-<br>
+
+
 **Arbitrum Nova：**<br>
   AnyTrust 技术：依赖数据可用性委员会管理链下数据，减少信任需求，提高用户体验，省去了长时间的提币等待期。
   
