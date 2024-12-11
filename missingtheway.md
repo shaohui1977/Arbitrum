@@ -108,7 +108,7 @@ Arbitrum 通过引入Layer 2 网络和 Arbitrum RollUp 来解决这个问题，A
 
 ### 2024.12.11
 
-今天按照https://docs.arbitrum.io/build-decentralized-apps/quickstart-solidity-hardhat上的方法搭建了，Dapp并使用本地节点进行了部署。
+今天按照https://docs.arbitrum.io/build-decentralized-apps/quickstart-solidity-hardhat 上的方法搭建了，Dapp并使用本地节点进行了部署。
 
 # RollUp的作用
 
