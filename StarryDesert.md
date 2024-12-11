@@ -91,4 +91,18 @@ Arbitrum是一种基于以太坊（Ethereum）的Layer 2扩容解决方案，旨
 
 ### 2024.12.11
 
+笔记内容
+
+#### Rollup, ZK Rollups与Optimistic，Arbitrum的区别
+
+1. **Rollup**：是一种整理方法，将一堆交易任务送到Layer2协议去处理，从而提升以太坊的运行效率。
+2. **ZK Rollups**：是一种利用零知识证明的密码学算法，在无需知道验证者是谁的情况下，完成外包工作的Layer2方法。适合Payment等需要快速交易的业务，但算法稍复杂。
+3. **Optimistic Rollups**：是一种利用一堆验证者，在默认所有打包均为合法的情况下，通过奖惩机制，监督发掘是否有Bug的Layer2方法。
+4. **Optimistic，Arbitrum**：两者都是以**Optimistic Rollups**协议为基础开发的项目，但具体有以下不同：
+   - **验证机制**：**Optimistic** 只进行一轮欺诈证明，而**Arbitrum**进行多轮欺诈证明。
+   - **交易执行**：**Optimism**的交易计算依靠Layer 1来执行，而**Arbitrum**的交易则在其自己的虚拟机中执行，无需依赖Layer 1。
+   - **虚拟机**：**Arbitrum**有自己的虚拟机，更加兼容ETH网络，而**Optimism**则依赖Layer 1的虚拟机。
+
+### 2024.12.12
+
 <!-- Content_END -->
