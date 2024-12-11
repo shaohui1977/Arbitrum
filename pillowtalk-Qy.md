@@ -72,7 +72,15 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ### 2024.12.11
 
-笔记内容
+1.Arbitrum是一套以太坊扩展解决方案，可以轻松构建和使用去中心化应用程序。本文档提供了 Arbitrum 套件的高级概述以及针对特定受众量身定制的入门指南。
+
+2.用户可以通过 Arbitrum 桥或使用已部署到 Arbitrum 链的 dApp 与 Arbitrum 进行交互。
+
+3.开发人员通过将智能合约部署到 Arbitrum 链来构建 Arbitrum dApp。
+
+4.链运营商使用 Arbitrum Orbit 来运行专用 Rollup 和 AnyTrust 链。
+
+
 
 ### 2024.12.11
 
