@@ -65,6 +65,10 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 1. 学习 Arbitrum 基础介绍 https://docs.arbitrum.io/welcome/arbitrum-gentle-introduction
 2. Arbitrum suite https://docs.arbitrum.io/welcome/get-started
 
-### 2024.12.10
+### 2024.12.11
+
+1. 阅读 Layer 2 技术类型 https://cloud.tencent.com/developer/news/1003179
+2. 初步了解交互式证明
+> 有种是懂非懂的感觉,理解不是跟透彻, 期望有人可以通俗易懂的讲解一下
 
 <!-- Content_END -->
