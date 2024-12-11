@@ -68,4 +68,6 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ### 2024.12.11
 
+查看如何使用 Solidity 智能合数字纸杯蛋糕自动售货机，尝试构建项目
+
 <!-- Content_END -->
