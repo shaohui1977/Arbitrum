@@ -167,7 +167,7 @@ Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 | jiejie | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 | StarryDesert | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
 | a-super-cat | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| pillowtalk-Qy | ✅ |   | | | | | | | | | | | | | | | | | | | |
+| pillowtalk-Qy | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
 | hechichu | ✅ |   | | | | | | | | | | | | | | | | | | | |
 | nocb | ✅ |   | | | | | | | | | | | | | | | | | | | |
 | ChinesePaladin61 | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
@@ -197,6 +197,7 @@ Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 | YOUKUAIHAOMUTOU | ✅ |   | | | | | | | | | | | | | | | | | | | |
 | wodeche | ✅ |   | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
