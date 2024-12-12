@@ -8,7 +8,7 @@ timezone: America/Anchorage # 阿拉斯加标准时间 (UTC-9)
 
 timezone: America/Los_Angeles # 太平洋标准时间 (UTC-8)
 
-timezone: America/Denver # 山地标准时间 (UTC-7)
+timezone: America/Denver # 山地标准时间 (UTC-7)  
 
 timezone: America/Chicago # 中部标准时间 (UTC-6)
 
@@ -24,7 +24,7 @@ timezone: Atlantic/Azores # 亚速尔群岛时间 (UTC-1)
 
 timezone: Europe/London # 格林威治标准时间 (UTC+0)
 
-timezone: Europe/Berlin # 中欧标准时间 (UTC+1)
+timezone: Europe/Berlin # 中欧标准时间 (UTC+1)  
 
 timezone: Europe/Helsinki # 东欧标准时间 (UTC+2)
 
