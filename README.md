@@ -175,7 +175,7 @@ Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 | happylucie | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
 | Rey666666 | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
 | CHENFANGC | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
-| Muyec | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| Muyec | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | |
 | YuanboXie | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
 | JacksonStack | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | |
 | Helen2022a | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
@@ -197,6 +197,7 @@ Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 | YOUKUAIHAOMUTOU | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
 | wodeche | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
