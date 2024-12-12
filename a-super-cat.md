@@ -98,5 +98,27 @@ Arbitrum 的方法基于对争议的剖析。如果 Alice 的断言涉及了 N �
 
 交互式证明背后的关键原理是，如果 Alice 和 Bob 有所争议，Alice 和 Bob 应尽可能做链下的工作来解决争议，而不是让 L1 合约承担负担。
 
+### 2024.12.12
+
+#### Arbitrum One
+
+Arbitrum One是Arbitrum的旗舰链，建立在Optimistic Rollup技术之上。Arbitrum的架构有部分在L1上有部分在L2上，EthBridge 负责对 Arbitrum Rollup 协议进行仲裁，以及维护 Arbitrum rollup 在以太坊链上的收件箱和发件箱。Arbitrum 虚拟机（AVM）是 EthBridge 提供的功能，是 L1 和 L2 之间的网关。AVM 能够读取输入，并基于这些输入执行计算，从而产生输出。ArbOS 运行在 AVM 上，确保智能合约在 Arbitrum 链上执行。ArbOS 完全存在于 L2 上，并像在以太坊上一样运行 EVM 合约。
+
+#### Nitro
+
+Nitro是One的升级。升级版的Nitro费用更低，以太坊兼容性更好以及zk证明更加简洁。支持Nitro的关键创新可概括为四点：证明程序、以Geth为核心、实现执行与证明分开、交互式欺诈证明的Optimistic Rollup。
+
+Arbitrum 的旧方案方案是通过定制的 Arbitrum 虚拟机（AVM）来模拟 EVM，它的一些内部逻辑在EVM 不一致（例如Gas的计算），所以仅限于低级指令。而Geth则基本完全支持以太坊的数据结构、格式和虚拟机，所以可以实现以太坊高度兼容。其关于欺诈证明的代码会编译为wasm格式，可移植、体积小、加载快、并且兼容web。而且Nitro又对wasm格式进行了微调，让它更适合与链交互。
+
+在WASM代码上进行Arbitrum的交互式欺诈证明，就取代了Arbitrum虚拟机（AVM）的架构，直接以标准的语言和工具来构建和编译。
+
+#### Nova
+
+Arbitrum Nova 是基于 AnyTrust 技术搭建的新链，专为游戏、社交应用程序和对成本更敏感的用例而设计。Nova 提供了 2 种数据发布方式，一种是像 Nitro 一样以 Calldata 的形式发布完整数据，另一种是发布 DACert 证明数据的可用性。
+
+Nova 的定序器将完整的数据集同时发送给所有 DAC 委员会的成员，委员会签名后把带有签名的证明返回给定序器，定序器收集到足够多的证明就能将它们聚合并创建有效的数据可用性证明（DACert），然后把 DACert 发布到主网。如果定序器没有收集到足够多的证明，Nova 会回退到 Rollup 模式（以 Calldata 形式发布数据到主网）。
+
+相对于 One 而言，Nova 通过牺牲一定的安全性来提高性能，游戏社交类等需要高频交互的 Dapp 适合部署在 Nova 上。
+
 
 <!-- Content_END -->
