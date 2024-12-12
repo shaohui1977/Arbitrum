@@ -100,12 +100,6 @@ Arbitrum 通过引入Layer 2 网络和 Arbitrum RollUp 来解决这个问题，A
 
 当两个validator 产生了不同的判断，最多只有一个 validator 是诚实的。在冲突发生的情况下，他们会进行一个交互游戏 **ChallengeManager** 这个游戏会逐渐缩小冲突范围，直到缩小到一个简单的计算，例如两数相加。这是在L1中进行的，并且会证明其中有一方说的是真话。
 
-### 2024.12.10
-
-<!-- Content_END -->
-
-<!-- Content_START -->
-
 ### 2024.12.11
 
 今天按照https://docs.arbitrum.io/build-decentralized-apps/quickstart-solidity-hardhat 上的方法搭建了，Dapp并使用本地节点进行了部署。
@@ -115,6 +109,6 @@ Arbitrum 通过引入Layer 2 网络和 Arbitrum RollUp 来解决这个问题，A
 Roll up 译为压缩整理，Roll up 的作用就是将区块链上需要计算的内容Copy到以太坊之外的Layer2协议进行计算。然后再将结果结果信息打包发送到链上网络。
 ZK RollUp 引入了零知识证明，通过复杂严谨的逻辑验证方法进行验证。来认证不同数据的真实性，验证完成后将存有大量签名的数据存入区块链网络。
 
-### 2024.12.11
+### 2024.12.12
 
 <!-- Content_END -->
