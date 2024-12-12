@@ -142,6 +142,7 @@ Arb 和 OP 目前都是基于 Rollup 实现的，但是 L2 如何实现去中心
 第 1 阶段 — 有限的训练轮：在此阶段，rollup 过渡到由智能合约管理。但是，可能会保留一个安全委员会来解决潜在的错误。此阶段的特点是实施功能齐全的证明系统、分散欺诈证明提交，并提供无需运营商协调的用户退出。由多元化参与者组成的安全委员会提供了安全网，但其权力也带来了潜在风险。
 第 2 阶段 — 无需训练：这是 Rollup 完全由智能合约管理的最后阶段。此时，防欺诈系统无需许可，如果出现不必要的升级，用户有充足的时间退出。安理会的作用严格限于解决可以在链上裁决的健全性错误，并保护用户免受治理攻击。
 
+详情看看：https://ethereum-magicians.org/t/proposed-milestones-for-rollups-taking-off-training-wheels/11571
 
 ### Arbitrum 的 Rullup 机制成熟度如何
 L2beat 评判 rullup 去中心化程度的 stage1 阶段，是按照 Stage 来区分的，目前 arb 和 Op 都是达到了 L2beat 评判 rullup 去中心化程度的 stage1 阶段，即
