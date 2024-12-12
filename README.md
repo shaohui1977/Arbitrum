@@ -188,7 +188,7 @@ Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 | Marcus | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
 | yuhui | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
 | HenryWei | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
-| missingtheway | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
+| missingtheway | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
 | iavl | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
 | HeliosLz | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
 | linyuanye3 | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
@@ -197,6 +197,7 @@ Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 | YOUKUAIHAOMUTOU | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
 | wodeche | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
