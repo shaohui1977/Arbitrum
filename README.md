@@ -177,7 +177,7 @@ Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 | CHENFANGC | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
 | Muyec | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
 | YuanboXie | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
-| JacksonStack | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| JacksonStack | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | |
 | Helen2022a | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
 | stualan | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
 | fuhaooo | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | |
@@ -197,6 +197,7 @@ Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 | YOUKUAIHAOMUTOU | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
 | wodeche | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
