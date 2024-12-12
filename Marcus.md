@@ -49,10 +49,11 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 Marcus
 hi, 大家好。我是 Marcus,在负责 OP 中文力量，在 Optimism 的研究中，也看到了 arbitrum 的很多治理研究和机制，我想系统的学习一下 arbitrum，这样子便于交流和了解，互相学习
 
-<!-- Content_START -->
+
 
 ### 2024.12.10
 
+<!-- Content_START -->
 
 ### 简单概念
 Arbitrum 是一个 Layer2 网络，用的是 Arbitrum Rollup 的机制（俗称欺诈证明，即代表如果你的交易内有欺诈交易，只要你被证明是虚伪交易，那么你质押的一半资产要给到挑战者）
