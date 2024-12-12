@@ -103,6 +103,10 @@ Arbitrum Stylus  write contract with rust
 
 ### 2024.12.12
 
+#### 创建Dapp 
+- ui -> provider -> node -> contract
+- 就像前后端分离一样，   ui 是前端， 合约是服务， 用solidity 语言写，部署在去中心化网络。
+
 ### 2024.12.13
 
 
