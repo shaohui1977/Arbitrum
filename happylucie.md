@@ -91,5 +91,7 @@ Arbitrum 支持多条链并行运行。在以太坊主网上，有2条 Arbitrum 
 如果断言中的该步骤正确，则挑战失败，挑战者被罚款。
 如果该步骤错误，则挑战成功，验证者被罚款，断言被撤销。
 
-
+### 2024.12.12
+Arbitrum 详解 - One、Nitro、Nova
+https://community.dorahacks.io/t/arbitrum-one-nitro-nova/562
 <!-- Content_END -->
