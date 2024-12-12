@@ -165,7 +165,7 @@ Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 | onthebigtree | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
 | Soleil-YSY | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
 | jiejie | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
-| StarryDesert | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| StarryDesert | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | |
 | a-super-cat | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
 | pillowtalk-Qy | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
 | hechichu | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
@@ -197,6 +197,7 @@ Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
 | YOUKUAIHAOMUTOU | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
 | wodeche | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
