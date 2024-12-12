@@ -70,4 +70,8 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 查看如何使用 Solidity 智能合数字纸杯蛋糕自动售货机，尝试构建项目
 
+### 2024.12.12
+
+阅读文档如何在 Arbitrum 中估算 Gas
+
 <!-- Content_END -->
