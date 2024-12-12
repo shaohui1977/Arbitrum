@@ -38,7 +38,7 @@ timezone: Asia/Shanghai
 5.Nitro 是 One 的技术栈升级，并不是独立于 One 的网络，Nitro 升级后全称还是 Arbitrum One ；而 Nova 是独立于 One 的网络。 
 ### 2024.12.11
 
-### 2024.12.11
+### 2024.12.12
 笔记内容
 1.横向对比，目前 Arbitrum 的社区活跃度还是比较高的，相比而言optimism的活跃度较低
 2.https://forum.arbitrum.foundation/t/opco-a-dao-adjacent-entity-for-strategy-execution/27361/11，最近 Arbitrum 上有一个帖子热度挺高，帖子是关于成立 OpCo 的讨论，从这个帖子可以看出大家对 DAO 的不同面向的思考，对去中心化的坚持和对效率的反思，比较普遍的一个认知是 DAO 因为去中心治理，很容易出现多个项目在干同一件事的情况，资源没有办法进行有效协调，容易各自为营，效率低下，资源匹配低效。但是 OpCo 的建立也没有得到一致的认同，一方面是出于理念和价值和治理的谨慎考虑，OpCo 是否会损害区中心的程度，也有一批人支持 OpCo 的成立，以图解决资料协调和效率问题，但是沿着建立 OpCo 的建立开展的讨论，又面临几方面问题，第一，Arbitrum 生态内部组织协调性问题，目前组织内容已经有 seegov 和基金会两个偏向执行的组织，OpCo 和这两个组织功能上似有重叠，而组织之间的身份定位和工作分配又缺乏上级结构进行协调，这个工作似乎难以开展，另一方面，延展出 OpCo 的职权议题，OpCp 是否应该成为社区的超级 PM ？DAO 生态的项目都经由 OpCo 监督管理，如果按这个路径发展，OpCo 是否权力过大，是否需要这样的一个结构，而相应的，如果不设立类似的职责，这个 OpCo 在生态中的作用又是什么，是否回退成 seedgov 和基金会一样的职能了。
@@ -46,6 +46,6 @@ timezone: Asia/Shanghai
 “公共”的集中的，但是运作是分散的，多元的，这规避了某个单一主体的独裁，但也导致资源的耗散。或许像以太坊生态的局面会更为良性，分裂成无数dapp和组织，EF 也仅作为服务和支持结构，没有绝对权力，一种曼陀式的治理模式。或许比起 DAO 更有生机和生命力的模式还是“生态”，或许“允许”子结构、分形、节点，允许子中心产生的系统才更去中心。
 3.https://forum.arbitrum.foundation/t/non-constitutional-arbitrum-onboarding-v2-a-governance-bootcamp/27546 Arbitrum 上有一个治理训练营的帖子，这个帖子跟 seedao 的治理培训和 lxDAO 目前运作的残酷工学可以做一些呼应。
 4.Arbitrum目前AIP 运作机制是先论坛，再 snapshot、再 tally
-### 2024.12.11
+### 2024.12.12
 
 <!-- Content_END -->
