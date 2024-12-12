@@ -71,4 +71,7 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 2. 初步了解交互式证明
 > 有种是懂非懂的感觉,理解不是跟透彻, 期望有人可以通俗易懂的讲解一下
 
+### 2024.12.12
+
+1. 阅读官方文章 简单了解下 Classic 和 Nitro 区别 https://arbitrum.io/nitro-vs-classic/
 <!-- Content_END -->
