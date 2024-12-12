@@ -46,4 +46,33 @@ Arbitrum 提供了多种 Layer 2 解决方案，以提高以太坊的可扩展�
 **Arbitrum Orbit：**<br>
 自定义专用链：允许创建具有自定义隐私、权限和费用代币的专用链。<br>
 
+
+### 2024.12.12
+#### Rollup
+Rollup是一种技术，用于提高以太坊网络的交易处理能力（TPS）和降低交易成本。它通过将多笔交易在链下（Layer 2）进行批量处理，然后将结果（压缩数据）发布回以太坊主链（Layer 1）。这样可以减少主链的负担，提高效率。<br>
+
+#### ZK Rollups
+ZK Rollups（Zero Knowledge Rollups）是一种使用零知识证明技术的Rollup方案。它允许在Layer 2上进行交易验证，而无需将所有交易数据发布到主链。<br>
+零知识证明允许验证者在不透露交易细节的情况下验证交易的有效性。
+ZK Rollups的特点包括：
+- Zero Knowledge：验证者无需看到交易所有数据。
+- Succinct：数据简洁。
+- Non-Interactive：无需知道验证者是谁。
+- Argument of Knowledge：证明交易的真实性与正确性。
+
+ZK Rollups适合需要快速结算的业务，如支付和交易所，但算法复杂，对应用开发有一定门槛。
+
+#### Optimistic Rollups
+Optimistic Rollups是一种Rollup方案，它默认所有交易都是有效的，除非有人提出异议。如果有人发现欺诈行为，可以通过挑战机制来解决。<br>
+Optimistic Rollups的特点包括：
+- 乐观假设：默认所有交易都是有效的。
+- 挑战机制：如果发现问题，可以通过挑战来解决。
+
+Optimistic Rollups适合开发Dapp和DeFi应用，但提币回Layer 1的速度较慢。
+
+#### Arbitrum
+Arbitrum是一种基于Optimistic Rollups的Layer 2协议，它通过多轮欺诈证明来增强安全性，并拥有自己的虚拟机，更加兼容以太坊网络。<br>
+Arbitrum与Optimism的主要区别在于它进行多轮欺诈证明，并且交易计算不依赖Layer 1。
+
+
 <!-- Content_END -->

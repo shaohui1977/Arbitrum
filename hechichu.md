@@ -139,6 +139,84 @@ Arbitrum One：一个 Rollup 链，强调去中心化和安全性。
 Nova：一个 AnyTrust 链，适合需要高吞吐量、低费用的应用。
 此外，开发者可以基于 Arbitrum 的技术栈（如 Nitro 和 Stylus）创建高性能的智能合约，甚至使用如 Rust、C++ 等编程语言。
 
-### 2024.12.10
+### 2024.12.11
+### Arbitrum 概述
+
+Arbitrum 是一套以太坊扩容解决方案，旨在简化去中心化应用的构建和使用。其提供了多个协议、链、服务和 SDK，支持 Arbitrum 生态系统的运行。
+
+#### Arbitrum 组件：
+1. **Arbitrum Rollup**  
+   - 用于扩展以太坊智能合约的协议。
+   
+2. **Arbitrum AnyTrust**  
+   - 更进一步扩展以太坊智能合约的协议，采用轻度信任假设。
+   
+3. **Arbitrum Nitro**  
+   - 实现 Rollup 和 AnyTrust 协议的节点软件。
+   
+4. **Arbitrum 节点**  
+   - 运行 Nitro 软件的机器，用于服务或与 Arbitrum 链交互。
+   
+5. **Arbitrum One**  
+   - 公共的 Rollup 链。
+   
+6. **Arbitrum Nova**  
+   - 公共的 AnyTrust 链。
+   
+7. **Arbitrum 桥接**  
+   - 支持在以太坊、Arbitrum 和部分 Orbit 链之间转移 ETH 和 ERC-20 代币。
+   
+8. **Arbitrum Orbit**  
+   - 支持运行自定义的 Rollup 和 AnyTrust 链。
+   
+9. **Arbitrum Stylus**  
+   - 支持用 Rust 或其他编译成 Wasm 的语言编写与 EVM 兼容的智能合约。
+
+#### Arbitrum 面向用户：
+- **Arbitrum 桥接**  
+  - 用户可以通过 Arbitrum 桥接在以太坊、Arbitrum 和部分 Orbit 链之间转移 ETH 和 ERC-20 代币。
+  
+- **Arbitrum Portal**  
+  - 提供一个 Arbitrum 上 DApp 的目录。
+
+- **快速入门（桥接）**  
+  - 为第一次使用桥接的用户提供逐步指导。
+
+#### Arbitrum 面向开发者：
+- **Arbitrum 简介**  
+  - Arbitrum 扩容解决方案的技术介绍。
+
+- **快速入门（Solidity）**  
+  - 针对 Web2 开发者，帮助其将 Solidity 智能合约部署到 Arbitrum。
+
+- **快速入门（Rust）**  
+  - 针对 Web3 开发者，帮助其使用 Stylus 将 Rust 智能合约部署到 Arbitrum。
+
+#### Arbitrum 面向节点运行者：
+- **运行完整节点**  
+  - 帮助节点运行者在不依赖第三方节点的情况下访问 Arbitrum 链。
+
+- **配置数据可用性委员会**  
+  - 面向数据可用性委员会成员和 Orbit 链运营者，帮助其运行数据可用性服务器。
+
+#### Arbitrum 面向链运营者：
+- **Orbit 简介**  
+  - 为有意了解 Orbit 价值主张和使用场景的读者提供的内容。
+
+- **Orbit 快速入门**  
+  - 帮助链运营者使用 Arbitrum Orbit 部署其第一个 Arbitrum 链。
+
+#### 技术原理：
+- **Nitro 内部架构**  
+  - 对 Nitro 架构的技术深入分析。
+
+- **AnyTrust 协议内部**  
+  - 对 AnyTrust 协议的技术深入分析。
+
+- **Arbitrum 白皮书**  
+  - 介绍 Nitro 的原始白皮书。
+
+- **DAO 文档**  
+  - 支持 Arbitrum DAO 成员的文档。
 
 <!-- Content_END -->

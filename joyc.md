@@ -102,5 +102,47 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 - Arbitrum One 和 Nova 的未来由治理系统决定。  
 
 ### 2024.12.11
+> [!NOTE]
+> 轻松理解Rollup，ZK Rollups与Optimistic，Arbitrum的[区别](https://cloud.tencent.com/developer/news/1003179)
+
+#### Rollup 
+  是一种交易整理方法，将交易任务外包至 Layer2 协议执行，从而提升以太坊网络的效率与 TPS。  
+
+#### ZK Rollups 
+- **特点**：
+  1. 零知识证明：无需查看完整数据即可验证。
+  2. 简洁算法：验证过程简练高效。
+  3. 非交互性：验证者身份无需公开。
+  4. 数据真实性保障：通过复杂算法确保验证结果可靠。  
+- **优点**：  
+  - 提币到 Layer1 快速，适合支付和快速结算场景。  
+- **缺点**：  
+  - 算法复杂，对开发者有一定技术门槛。  
+
+#### Optimistic Rollups
+- **特点**：  
+  1. 默认信任所有交易有效，后续验证期间通过奖惩机制处理错误。  
+  2. 支持智能合约和项目迁移，兼容性强。  
+- **优点**：  
+  - 开发 Dapp 方便，支持无缝迁移项目。  
+- **缺点**：  
+  - 提币速度慢（通常需一周），存在验证者作恶风险。
+
+#### Optimism与Arbitrum对比 
+- 共同点：基于 Optimistic Rollups 开发，专注提升以太坊扩容性能。  
+- 区别：  
+  - **Optimism**：一次欺诈验证，交易计算依赖 Layer1 执行。  
+  - **Arbitrum**：多轮欺诈验证，交易执行在独立虚拟机中完成，更兼容 ETH 网络。
+
+#### 其他Layer2方案  
+- **Zksync**：基于 ZK Rollups 方法，专注快速支付场景。  
+- **Plasma、Metis**：其他 Layer2 协议，探索不同扩容方式。  
+- **Truebit**：结合博弈与 AI，提升以太坊计算效率。
+
+#### 总结
+- **Rollup** 是以太坊扩容的核心思路。  
+- **ZK Rollups**：适合支付类业务，验证严谨但开发难度较高。  
+- **Optimistic Rollups**：适合 Dapp 和 Defi，但提币速度较慢。  
+- **Optimism 与 Arbitrum**：基于乐观归纳的 Layer2 代表项目，各有优势与特性。 
 
 <!-- Content_END -->

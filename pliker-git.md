@@ -2,52 +2,6 @@
 timezone: Asia/Shanghai
 ---
 
-> 请在上边的 timezone 添加你的当地时区，这会有助于你的打卡状态的自动化更新，如果没有添加，默认为北京时间 UTC+8 时区
-> 时区请参考以下列表，请移除 # 以后的内容
-
-timezone: Pacific/Honolulu # 夏威夷-阿留申标准时间 (UTC-10)
-
-timezone: America/Anchorage # 阿拉斯加标准时间 (UTC-9)
-
-timezone: America/Los_Angeles # 太平洋标准时间 (UTC-8)
-
-timezone: America/Denver # 山地标准时间 (UTC-7)
-
-timezone: America/Chicago # 中部标准时间 (UTC-6)
-
-timezone: America/New_York # 东部标准时间 (UTC-5)
-
-timezone: America/Halifax # 大西洋标准时间 (UTC-4)
-
-timezone: America/St_Johns # 纽芬兰标准时间 (UTC-3:30)
-
-timezone: America/Sao_Paulo # 巴西利亚时间 (UTC-3)
-
-timezone: Atlantic/Azores # 亚速尔群岛时间 (UTC-1)
-
-timezone: Europe/London # 格林威治标准时间 (UTC+0)
-
-timezone: Europe/Berlin # 中欧标准时间 (UTC+1)
-
-timezone: Europe/Helsinki # 东欧标准时间 (UTC+2)
-
-timezone: Europe/Moscow # 莫斯科标准时间 (UTC+3)
-
-timezone: Asia/Dubai # 海湾标准时间 (UTC+4)
-
-timezone: Asia/Kolkata # 印度标准时间 (UTC+5:30)
-
-timezone: Asia/Dhaka # 孟加拉国标准时间 (UTC+6)
-
-timezone: Asia/Bangkok # 中南半岛时间 (UTC+7)
-
-timezone: Asia/Shanghai # 中国标准时间 (UTC+8)
-
-timezone: Asia/Tokyo # 日本标准时间 (UTC+9)
-
-timezone: Australia/Sydney # 澳大利亚东部标准时间 (UTC+10)
-
-timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ---
 
@@ -74,5 +28,24 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 7.宪法 AIP是指修改宪法或 AIP-1 的文本或程序、在任何链上安装或修改软件、或在任何链上采取任何需要“链所有者”许可的行动。非宪法 AIP是所有其他 AIP，例如那些请求资金/补助金或向社区提供一般指导或信息的 AIP。
 
 ### 2024.12.10
+
+### 2024.12.11
+笔记内容
+1.Arbitrum 的存在是为了“扩大”以太坊
+2.第 1 层最初“乐观地假设”Arbitrum 上的活动遵循正确的规则。如果发生违规行为（即有人声称“现在我拥有了你所有的钱”），则可以在 L1 上对此索赔提出异议；欺诈将被证明，无效索赔将被忽略，恶意方将受到经济处罚。
+3.Arbitrum的交互证明（Interactive Proof） 是其核心技术机制的一部分，用于在以太坊主网上验证计算的正确性。交互证明是通过交互式的挑战-响应过程来验证某个声明的正确性。验证者无需重复整个计算，而是通过一系列对话，与声明者（通常称为挑战者或计算执行者）确认计算结果是否正确。
+4.Optimistic Rollup（如 Arbitrum）依赖交互证明，而 ZK Rollup 使用零知识证明来即时验证计算结果。
+5.Nitro 是 One 的技术栈升级，并不是独立于 One 的网络，Nitro 升级后全称还是 Arbitrum One ；而 Nova 是独立于 One 的网络。 
+### 2024.12.11
+
+### 2024.12.12
+笔记内容
+1.横向对比，目前 Arbitrum 的社区活跃度还是比较高的，相比而言optimism的活跃度较低
+2.https://forum.arbitrum.foundation/t/opco-a-dao-adjacent-entity-for-strategy-execution/27361/11，最近 Arbitrum 上有一个帖子热度挺高，帖子是关于成立 OpCo 的讨论，从这个帖子可以看出大家对 DAO 的不同面向的思考，对去中心化的坚持和对效率的反思，比较普遍的一个认知是 DAO 因为去中心治理，很容易出现多个项目在干同一件事的情况，资源没有办法进行有效协调，容易各自为营，效率低下，资源匹配低效。但是 OpCo 的建立也没有得到一致的认同，一方面是出于理念和价值和治理的谨慎考虑，OpCo 是否会损害区中心的程度，也有一批人支持 OpCo 的成立，以图解决资料协调和效率问题，但是沿着建立 OpCo 的建立开展的讨论，又面临几方面问题，第一，Arbitrum 生态内部组织协调性问题，目前组织内容已经有 seegov 和基金会两个偏向执行的组织，OpCo 和这两个组织功能上似有重叠，而组织之间的身份定位和工作分配又缺乏上级结构进行协调，这个工作似乎难以开展，另一方面，延展出 OpCo 的职权议题，OpCp 是否应该成为社区的超级 PM ？DAO 生态的项目都经由 OpCo 监督管理，如果按这个路径发展，OpCo 是否权力过大，是否需要这样的一个结构，而相应的，如果不设立类似的职责，这个 OpCo 在生态中的作用又是什么，是否回退成 seedgov 和基金会一样的职能了。
+这一系列讨论，折射出 DAO 生态的复杂性，DAO 在执行和效率上是低效的，高消耗的，以自己的视角观察，DAO 的结构性弊病或许在于——“中心化“的资金池和去中心化的经营模式，资金池是
+“公共”的集中的，但是运作是分散的，多元的，这规避了某个单一主体的独裁，但也导致资源的耗散。或许像以太坊生态的局面会更为良性，分裂成无数dapp和组织，EF 也仅作为服务和支持结构，没有绝对权力，一种曼陀式的治理模式。或许比起 DAO 更有生机和生命力的模式还是“生态”，或许“允许”子结构、分形、节点，允许子中心产生的系统才更去中心。
+3.https://forum.arbitrum.foundation/t/non-constitutional-arbitrum-onboarding-v2-a-governance-bootcamp/27546 Arbitrum 上有一个治理训练营的帖子，这个帖子跟 seedao 的治理培训和 lxDAO 目前运作的残酷工学可以做一些呼应。
+4.Arbitrum目前AIP 运作机制是先论坛，再 snapshot、再 tally
+### 2024.12.12
 
 <!-- Content_END -->
