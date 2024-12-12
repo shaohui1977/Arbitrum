@@ -45,6 +45,7 @@ timezone: Asia/Shanghai
 这一系列讨论，折射出 DAO 生态的复杂性，DAO 在执行和效率上是低效的，高消耗的，以自己的视角观察，DAO 的结构性弊病或许在于——“中心化“的资金池和去中心化的经营模式，资金池是
 “公共”的集中的，但是运作是分散的，多元的，这规避了某个单一主体的独裁，但也导致资源的耗散。或许像以太坊生态的局面会更为良性，分裂成无数dapp和组织，EF 也仅作为服务和支持结构，没有绝对权力，一种曼陀式的治理模式。或许比起 DAO 更有生机和生命力的模式还是“生态”，或许“允许”子结构、分形、节点，允许子中心产生的系统才更去中心。
 3.https://forum.arbitrum.foundation/t/non-constitutional-arbitrum-onboarding-v2-a-governance-bootcamp/27546 Arbitrum 上有一个治理训练营的帖子，这个帖子跟 seedao 的治理培训和 lxDAO 目前运作的残酷工学可以做一些呼应。
+4.Arbitrum目前AIP 运作机制是先论坛，再 snapshot、再 tally
 ### 2024.12.11
 
 <!-- Content_END -->
