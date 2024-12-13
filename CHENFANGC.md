@@ -1,5 +1,5 @@
 ---
-timezone: Asia/Shanghai  
+timezone: Asia/Shanghai
 ---
 
 > 请在上边的 timezone 添加你的当地时区，这会有助于你的打卡状态的自动化更新，如果没有添加，默认为北京时间 UTC+8 时区
@@ -64,8 +64,18 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ### 2024.12.10
 
-笔记内容
+阅读文档[Arbitrum 的简要介绍](https://docs.arbitrum.io/welcome/arbitrum-gentle-introduction)第一节
 
-### 2024.12.10
+### 2024.12.11
+
+查看如何使用 Solidity 智能合数字纸杯蛋糕自动售货机，尝试构建项目
+
+### 2024.12.12
+
+阅读文档如何在 Arbitrum 中估算 Gas
+
+### 2024.12.13
+
+阅读文档[Rollup，ZK Rollups 与 Optimistic，Arbitrum 的区别](https://cloud.tencent.com/developer/news/1003179)
 
 <!-- Content_END -->

@@ -62,8 +62,58 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ### 2024.12.10
 
-笔记内容
+#### ARB基础介绍
 
-### 2024.12.10
+- ARB is Optimistic rollup protocol ，is a L2  
+- L2 是为了Ethereum的扩容
+- L1 保证了L2的安全性，
+- The only delay that's felt by a user is in "withdrawing" — moving their funds from Arbitrum back to Ethereum;
+- 批次，压缩 ，所以L2的费用低和效率高
+- 最新技术栈：Stylus ，可以支持 rust 
+
+### 2024.12.11
+
+- ARB have 2 chain ，Arbitrum One   and  Nova. Orbit can create L3
+- Arbitrum DAO  
+
+#### Arbitrum suite
+
+The Arbitrum suite includes the protocols, chains, services, and SDKs that power the Arbitrum ecosystem:
+
+Arbitrum Rollup:	A protocol for scaling Ethereum smart contracts.
+Arbitrum AnyTrust	A protocol for scaling Ethereum smart contracts even further, with a mild trust assumption.
+Arbitrum Nitro	The node software that codifies the Rollup and AnyTrust protocols.
+Arbitrum nodes	Machines that run Nitro in order to service and/or interact with an Arbitrum chain.
+Arbitrum One	A public Rollup chain.
+Arbitrum Nova	A public AnyTrust chain.
+Arbitrum bridge	Lets you move ETH and ERC-20 tokens between Ethereum, Arbitrum, and select Orbit chains.
+Arbitrum Orbit	Lets you run your own Rollup and AnyTrust chains.
+Arbitrum Stylus  write contract with rust  
+
+- 用户通过bridge ，dapp 来使用arb 
+- 开发者可以使用  solidity and rust 语言  
+- 矿工 运行全节点 nitro 
+- 通过orbit 可以创建自己的 L3  
+
+#### chain info  
+
+- 介绍了 RPC 的地址 和特点 
+- 介绍了一些共用的 rpc provider  
+- 介绍了 几个重要的合约地址 ，及欺诈证明合约 ，bridge ，及水龙头
+
+### 2024.12.12
+
+#### 创建Dapp 
+- ui -> provider -> node -> contract
+- 就像前后端分离一样，   ui 是前端， 合约是服务， 用solidity 语言写，部署在去中心化网络。
+
+### 2024.12.13
+
+
+### 2024.12.14
+
+### 2024.12.15
+
+### 2024.12.16
 
 <!-- Content_END -->
