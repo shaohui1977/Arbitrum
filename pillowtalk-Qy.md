@@ -93,7 +93,9 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ### 2024.12.13
 
-笔记内容
+1.ZK Rollups, ZKSnark 或者叫Zero Knowledge Rollups，顾名思义，通过零知识证明验证来进行Rollups环节。 零知识证明，也是区块链公链项目Algorand的创始人Silvio Micali在密码学的主要贡献之一。
+2.Zero Knowledge: 验证者无需看到交易所有数据，Succinct: 言简意赅的，简练的，Non-Interactive: 无需知道验证者是谁，Argument of Knowledge: 证明交易的真实性与正确性。
+3.Optimistic的方法如其名字的意思：乐观的，开始认为所有发送的交易都是值得信赖认证过的。Layer 2验证者需要先质押Token作为保证金，如果验证过程中，别人发现了有问题的打包，那么该验证者（Sequencer）将被罚款部分Token，并把其作为奖励给与发现问题的人。每次数据打包后，会有验证期，以供其他验证者检查是否有问题，是否需要重新退回打包。Optimistic Rollups也具有智能合约功能，可以拥有相应的治理Token,
 
 ### 2024.12.13
 <!-- Content_END -->
