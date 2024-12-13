@@ -84,4 +84,9 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 Nitro 与 Classic:Arbitrum Nitro 是对 Arbitrum Classic 技术栈的升级，代表了 Arbitrum 技术发展的最新一步。两者的目标相似，都是创建一个接近以太坊的执行环境，用以太坊的欺诈证明保证 L2 状态的安全性。但 Nitro 相比 Classic 有显著的改进。在 Classic 中，Arbitrum 使用定制的虚拟机（AVM）执行代码，而在 Nitro 中，采用了 WebAssembly（Wasm），并将 Go 代码编译为 Wasm，这使得 Arbitrum 的 L2 状态机（ArbOS）能够直接包含以太坊的 Geth 实现，从而提高了兼容性。Nitro 的架构选择带来了多方面的优势：更低的费用、更好的以太坊兼容性和系统简化。
 
 
+### 2024.12.13
+
+Arbitrum Orbit 是一个开发框架，允许用户基于 Arbitrum Rollup 的 L2 创建和启动 L3 网络。Orbit 支持用户定制链功能，包括隐私、权限、费用代币和治理等，同时提供专用吞吐量、流量隔离以及可靠的 Gas 价格，适合特定领域的快速机制设计与迭代，帮助实现更多的价值捕获。
+XAI 是基于 Arbitrum Orbit 的首个 L3，定位为专注游戏场景的链，相较于 Nova 通用链，XAI 能够提供更高的性能。它具备专属的计算和存储资源，适合计算密集型场景（如 AI 模型）。同时，XAI 原生集成了 Arbitrum 技术栈，包括 Nitro、BOLD 和 Stylus。
+Nitro 是 Arbitrum 的核心技术栈之一，通过直接编译 Geth 核心，显著提升了以太坊的兼容性和性能。这一升级使得 Orbit 链能够以更高效的方式运行，进一步优化用户体验。
 <!-- Content_END -->

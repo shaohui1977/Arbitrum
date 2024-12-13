@@ -48,4 +48,13 @@ timezone: Asia/Shanghai
 4.Arbitrum目前AIP 运作机制是先论坛，再 snapshot、再 tally
 ### 2024.12.12
 
+### 2024.12.13
+笔记内容
+1.Arbitrum 是第 2 层 (L2) 以太坊扩展解决方案，具有两个通用的 optimistic rolluups。Arbitrum One 是旗舰 rollup，推动了生态系统的大部分采用，而 Arbitrum Nova 是为高吞吐量应用程序构建的较新 rollup。
+2.Offchain Labs 是 Arbitrum 技术的开发公司，负责设计、开发和运营 Arbitrum 网络。Arbitrum 是一个基于以太坊的二层（Layer 2）扩展解决方案，旨在通过 Rollup 技术（特别是 Optimistic Rollup）提高以太坊网络的可扩展性和降低交易成本。
+3.Arbitrum 的治理模式从 Offchain Labs 的主导逐渐过渡到由 ArbitrumDAO 社区管理。这种去中心化治理是 Offchain Labs 的设计目标之一，符合区块链技术的去中心化理念。
+4.ArbitrumDAO 的独立性使得社区能够在必要时限制或拒绝 Offchain Labs 的提案，确保网络的去中心化治理。
+5.在目前的 ArbitrumDAO 结构中，Offchain Labs 并没有直接的替代者，因为它仍然是技术支持和开发的核心力量。然而，DAO 的设计理念是去中心化，理论上允许社区逐步培养新的技术团队，通过提案、投票和资金支持，将 Offchain Labs 的角色分散化甚至替代。
+### 2024.12.13
+
 <!-- Content_END -->
