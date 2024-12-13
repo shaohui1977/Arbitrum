@@ -74,4 +74,8 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 阅读文档如何在 Arbitrum 中估算 Gas
 
+### 2024.12.13
+
+阅读文档[Rollup，ZK Rollups 与 Optimistic，Arbitrum 的区别](https://cloud.tencent.com/developer/news/1003179)
+
 <!-- Content_END -->
