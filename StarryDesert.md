@@ -135,4 +135,26 @@ Arbitrum是一种基于以太坊（Ethereum）的Layer 2扩容解决方案，旨
 
 ### 2024.12.13
 
+笔记内容
+
+#### **Arbitrum One**
+
+Arbitrum One是Arbitrum的第一个版本，其架构部分在L1（以太坊主网），部分在L2（Arbitrum链）。它使用EthBridge来仲裁Arbitrum Rollup协议，并维护Arbitrum Rollup在以太坊链上的收件箱和发件箱。用户可以通过以太坊链上的收件箱和发件箱将交易发送至Arbitrum链，并观察这些交易的结果。Arbitrum虚拟机（AVM）是EthBridge提供的功能，是L1和L2之间的网关。
+
+#### **Nitro**
+
+Nitro是Arbitrum One的技术栈升级，它的费用更低、以太坊兼容性更好以及zk证明更简洁。Nitro采用多轮欺诈证明，通过证明者和验证者之间的多轮交互来确保系统的安全性和正确性。Nitro还采用了用Go语言重写的节点软件Geth，实现了以太坊高度兼容。Nitro的证明系统是交互式欺诈证明，通过二分查找找到引起分歧的那个区块的第一个操作码。
+
+#### **Nova**
+
+Nova是基于AnyTrust技术搭建的新链，专为游戏、社交应用程序和对成本更敏感的用例而设计。Nova提供了两种数据发布方式，一种是像Nitro一样以Calldata的形式发布完整数据，另一种是发布DACert证明数据的可用性。Nova的定序器将完整的数据集同时发送给所有DAC委员会的成员，委员会签名后把带有签名的证明返回给定序器，定序器收集到足够多的证明就能将它们聚合并创建有效的数据可用性证明（DACert），然后把DACert发布到主网。如果定序器没有收集到足够多的证明，Nova会回退到Rollup模式（以Calldata形式发布数据到主网）。
+
+#### **AnyTrust**
+
+AnyTrust是Arbitrum扩容方案最初的构想，是Arbitrum Nitro的技术变式。它通过最小信任假设来降低calldata的交易成本，依靠外部数据可用性委员会来存储数据并按需提供。AnyTrust与Rollup的区别在于AnyTrust引入了数据可用性委员会，将原本应该存储在inbox合约中的calldata数据转移到链下的数据可用性委员会存储。
+
+#### **Arbitrum L3战略**
+
+Arbitrum团队推出了Arbitrum Orbit，一个开发框架，允许用户使用任何基于Arbitrum Rollup的L2网络作为结算层来创建和启动L3网络。Arbitrum Orbit允许用户在隐私、权限、费用代币、治理等方面定制自己的链。基于Arbitrum Orbit，Arbitrum团队推出了XAI，一个游戏专用L3网络，拥有专用的计算和存储资源。XAI将原生受益于Arbitrum的技术堆栈：Nitro+BOLD+Stylus。
+
 <!-- Content_END -->
