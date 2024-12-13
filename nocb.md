@@ -108,7 +108,21 @@ Arbitrum Stylus  write contract with rust
 - 就像前后端分离一样，   ui 是前端， 合约是服务， 用solidity 语言写，部署在去中心化网络。
 
 ### 2024.12.13
+#### run Arbitrum node 
+- 节点类型：  full node， archive node，classic node 
 
+一般运行full 节点 就可以了 ， 比归档节点要省资源， 
+
+- Nitro ，full node  
+	- hardware： 普通的电脑即可 
+	- 可以用docker 
+	- snapshot  可以快速同步  
+	- 也有rpc 的接口 
+	- 需要和 L1 的接口对接 
+
+- 创建一个本地的为开发用的 虚拟链 
+- L1 provider  
+	- data stored in blob ，on the beacon chain. 
 
 ### 2024.12.14
 
